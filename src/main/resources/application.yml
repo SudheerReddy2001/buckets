@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    credentials:
+      access-key:AKIA5PSSY57Q5L3GBAXB
+    secret-key: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
+    region:
+      static:eu-north-1
+    stack:
+      auto:false
+    application:
+      bucket:
+        name:myawsfristbuckets
